@@ -1,4 +1,4 @@
-|[logo](https://github.com/Asociety-ACG/Asociety/blob/main/20250909_131501.png)
+![banner](./20250909_131501.png)
 <h1 align="center">Hi 👋, I'm عبد الله حسين</h1>
 <h3 align="center">A passionated cyber security expert!!</h3>
 
